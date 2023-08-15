@@ -202,6 +202,11 @@
 217-218:
 218:AreaXMax=-240,AreaXMin=-307.3,AreaYMax=736.3,AreaYMin=566.5,X=-273.6,Y=661.8,Z=-455.9
 218-92:
+219:AreaXMax=-437.7,AreaXMin=-473.6,AreaYMax=291.8,AreaYMin=258.4,BlockBeforeWave=4,X=-455.7,Y=272.8,Z=-433
+219-208:Direction=Forward
+219-216:
+220:AreaXMax=-382.8,AreaXMin=-422.7,AreaYMax=1916.4,AreaYMin=1876.8,BlockBeforeWave=4,X=-402.1,Y=1895.7,Z=-576
+220-208:Direction=Forward
 23:AreaXMax=296,AreaXMin=280,AreaYMax=1296,AreaYMin=1200,X=288,Y=1248,Z=-512
 29:AreaXMax=464,AreaXMin=0,AreaYMax=1600,AreaYMin=1360,X=383.6,Y=1480,Z=-512
 29-87:
@@ -215,6 +220,7 @@
 31:AreaXMax=624,AreaXMin=-80,AreaYMax=1136,AreaYMin=912,X=272,Y=1016.7,Z=-512
 31-43:
 40:AreaXMax=-240,AreaXMin=-560,AreaYMax=1937.1,AreaYMin=1499,X=-402.1,Y=1718.1,Z=-576
+40-220:
 41:AreaXMax=-80,AreaXMin=-240,AreaYMax=1536,AreaYMin=1296.7,X=-156,Y=1446.4,Z=-512
 41-12:
 43:AreaXMax=-80,AreaXMin=-240,AreaYMax=1066.8,AreaYMin=992,X=-160,Y=1029.4,Z=-512
