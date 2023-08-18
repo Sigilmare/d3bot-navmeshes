@@ -116,11 +116,11 @@
 55:AreaXMax=-66,AreaXMin=-120,AreaYMax=771,AreaYMin=208,X=-87.2,Y=462.8,Z=-24
 55-37:
 55-38:
-56:AreaXMax=908,AreaXMin=682,AreaYMax=387,AreaYMin=-13,DMGPerSecond=5,X=807.3,Y=190.7,Z=162.1
+56:AreaXMax=908,AreaXMin=682,AreaYMax=387,AreaYMin=-13,DMGPerSecond=10,X=807.3,Y=190.7,Z=162.1
 57:AreaXMax=-66,AreaXMin=-120,AreaYMax=69,AreaYMin=-261,X=-87.2,Y=-95.9,Z=-23.2
 57-3:
 57-37:
-58:AreaXMax=709.8,AreaXMin=-70.5,AreaYMax=811,AreaYMin=-293,DMGPerSecond=5,X=305.8,Y=193.2,Z=223
+58:AreaXMax=709.8,AreaXMin=-70.5,AreaYMax=811,AreaYMin=-293,DMGPerSecond=10,X=305.8,Y=193.2,Z=223
 6:AreaXMax=670,AreaXMin=134,AreaYMax=479,AreaYMin=49,X=296.2,Y=214.3,Z=0
 6-30:
 7:AreaXMax=260,AreaXMin=250,AreaYMax=33,AreaYMin=-15,X=256.1,Y=9.5,Z=0
