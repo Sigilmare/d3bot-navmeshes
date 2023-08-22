@@ -300,13 +300,14 @@
 249-206:
 25:AreaXMax=-285,AreaXMin=-293,AreaYMax=-348,AreaYMin=-395,X=-289,Y=-371.5,Z=32
 25-12:
-250:AreaXMax=-527.5,AreaXMin=-610,AreaYMax=3406,AreaYMin=3051.1,See=Disabled,X=-568.7,Y=3228.6,Z=53.2
+250:AreaXMax=-527.5,AreaXMin=-799.3,AreaYMax=3406,AreaYMin=3051.1,See=Disabled,X=-568.7,Y=3228.6,Z=53.2
 251:AreaXMax=-407.5,AreaXMin=-527.5,AreaYMax=3130,AreaYMin=3113.8,Cost=1000,X=-467.5,Y=3121.9,Z=-40.6
 251-250:
 251-252:
 252:AreaXMax=-340.1,AreaXMin=-527.5,AreaYMax=3363.5,AreaYMin=3130,Cost=1000,X=-433.8,Y=3246.8,Z=-40.6
 252-206:
 252-250:
+253:AreaXMax=688,AreaXMin=513.5,AreaYMax=1112,AreaYMin=840,DMGPerSecond=10,X=534.3,Y=976.3,Z=-131.1
 26:AreaXMax=-221,AreaXMin=-285,AreaYMax=-280,AreaYMin=-436,X=-253,Y=-358,Z=32
 26-24:
 26-25:
